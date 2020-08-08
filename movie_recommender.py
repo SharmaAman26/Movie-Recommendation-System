@@ -49,9 +49,9 @@ def get_sorted_recommendations():
                  print(recommended_list)
                  return recommended_list
              else:
-                 print ('Cannot recognise that movie /n Try with different movie')
+                 print ('Cannot recognise that movie.Try with different movie')
         except Exception:
-             errmsg=' type the name properly /n Please restart the program  , '
+             errmsg=' type the name properly.Please restart the program  , '
              print(err_msg)
 
 
