@@ -1,6 +1,5 @@
 
-# some invocations that we use in the automated tests; uncomment these if you are getting errors and want better error messages
-# get_sorted_recommendations(["Bridesmaids", "Sherlock Holmes"])
+
 
 
 import json
